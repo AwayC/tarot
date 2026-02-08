@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[55499,["/_next/static/chunks/6dd20012774f1d59.js","/_next/static/chunks/222ba83fa2d3640b.js"],"default"]
-3:I[3901,["/_next/static/chunks/6dd20012774f1d59.js","/_next/static/chunks/222ba83fa2d3640b.js"],"default"]
-0:{"buildId":"SNhK-jxjbdkzVv6zqlf1Y","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[55499,["/tarot-reflection/_next/static/chunks/6dd20012774f1d59.js","/tarot-reflection/_next/static/chunks/222ba83fa2d3640b.js"],"default"]
+3:I[3901,["/tarot-reflection/_next/static/chunks/6dd20012774f1d59.js","/tarot-reflection/_next/static/chunks/222ba83fa2d3640b.js"],"default"]
+0:{"buildId":"w3KOgjCIXOLm0Fni8oeo5","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
